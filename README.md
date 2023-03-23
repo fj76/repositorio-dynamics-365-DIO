@@ -1,1 +1,2 @@
-# repositorio-dynamics-365-DIO
+# Repositório para atividades do bootcamp MS Dynamics 365
+### 
