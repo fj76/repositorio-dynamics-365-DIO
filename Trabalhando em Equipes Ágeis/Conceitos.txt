@@ -1,0 +1,7 @@
+* SCRUM
+O Scrum é um framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção a um objetivo em comum. A estrutura descreve um conjunto de reuniões, ferramentas e funções para uma entrega eficiente de projetos.
+O Scrum é composto por: Pilares 
+* transparência
+ * inspeção
+  * adaptação
+
